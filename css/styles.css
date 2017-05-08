@@ -1,0 +1,12 @@
+#show-chore {
+  display: none;
+}
+
+.chore {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.chore:hover {
+  text-decoration: underline;
+}
